@@ -1,6 +1,10 @@
 # Bob's Burgers Fan Site
 
 A full-stack web application that allows users to explore and favorite characters from Bob's Burgers. Built with Node.js, Express, and MongoDB.
+<img width="1236" alt="Screenshot 2024-11-18 at 9 23 01 PM" src="https://github.com/user-attachments/assets/50046edf-890c-47bb-9201-6853fd8aae24">
+
+<img width="1236" alt="Screenshot 2024-11-18 at 9 21 58 PM" src="https://github.com/user-attachments/assets/d19e31ec-b552-469d-8d99-8e144d9f5b55">
+
 
 ## Features
 

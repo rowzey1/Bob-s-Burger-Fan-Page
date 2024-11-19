@@ -4,5 +4,5 @@ require('dotenv').config();
 module.exports = {
 
     'url' : process.env.DB_STRING, 
-    'dbName': 'BobsBurgers'
+    'dbName': process.env.DB_NAME
 };
